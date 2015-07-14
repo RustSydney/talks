@@ -10,7 +10,7 @@ What can you talk about?
 
 First up, there's no need to be an expert of any kind, so don't feel like you have to be in order to talk.
 
-Aside from looking at what other people have requested, here are some ideas:
+Secondly, you can talk about anything Rust related! Aside from looking at what other people have requested, here are some ideas:
 
 * Rust for {Java,C++,C,Python,Ruby,Javascript,Scala,Haskell,C#,F#,whatever} developers
 * Typical Rust gotchas or Rust for beginner programmers
@@ -18,15 +18,16 @@ Aside from looking at what other people have requested, here are some ideas:
 * What's new or coming up in the latest version of Rust (similar to http://this-week-in-rust.org/ )
 * How to contribute to Rust community
 * Demonstrate your/someone else's rust library X to solve problem Y
-* Anything Cargo (tips, tricks)
+* Anything Cargo (tips, tricks, integration with other builds)
+* The history of Rust (e.g. scrapped features, motivations, pivotal RFCs)
 * Rust FFI/how to integrate with common C libraries
 * Rust usage in a popular project (e.g. Servo, Piston, etc), or a project of your own (no matter how trivial!)
 * Rust for gamedev/real-time/embedded systems
 * How Rust and LLVM work together or how other bits of the Rust compiler work
 * Embedding other languages in Rust, or embedding Rust in other languages
-* Testing, benchmarking, profiling, debugging, IDE experiences/tips/tricks/tools
+* Testing, benchmarking, profiling, debugging, REPL, IDE, editor experiences/tips/tricks/tools
 * War stories solving bugs, compilation errors, or production experiences
-* Anything else Rust related ;-)
+* Anything else Rust-related ;-)
 
 Requesting a talk
 -----------------
