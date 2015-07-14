@@ -1,7 +1,7 @@
 Rust Sydney Talks
 =================
 
-Use this repo to propose or request talks for the [Rust Sydney meetup](http://www.meetup.com/Rust-Sydney/) as GitHub issues.
+Use this repo to propose or request talks for the [Rust Sydney meetup](http://www.meetup.com/Rust-Sydney/) as GitHub issues, so everyone can chime in on what they'd like to see.
 
 *[Propose or request a talk](https://github.com/RustSydney/talks/issues/new); don't be shy* - we're a young meetup so no need to worry about making mistakes or giving/requesting a talk that's already been done!
 
