@@ -1,9 +1,27 @@
 Rust Sydney Talks
 =================
 
-Use this repo to propose or request talks for the [Rust Sydney meetup](http://www.meetup.com/Rust-Sydney/).
+Use this repo to propose or request talks for the [Rust Sydney meetup](http://www.meetup.com/Rust-Sydney/) as GitHub issues.
 
-Don't be shy - we're still a young meetup so no need to worry about making mistakes or giving/requesting a talk that's already been done!
+*[Propose or request a talk](https://github.com/RustSydney/talks/issues/new); don't be shy* - we're a young meetup so no need to worry about making mistakes or giving/requesting a talk that's already been done!
+
+See below for some ideas.
+
+Proposing a talk
+----------------
+
+Got an idea for a talk? Raise an issue with the details and label it with `proposal`, and we'll work with you from there.
+
+And yes, *speakers get t-shirts*! (S, M, L, XL sizes still available)
+
+Talks can be anywhere from 5 mins onwards, so don't feel like you need a lot of content in order to talk (if you have more than 30 mins, it'd be best to split your content into several talks).
+
+Requesting a talk
+-----------------
+
+Would you like to see a talk on a particular topic? Something you'd like to understand better, or an interesting area?
+
+Raise an issue with the details and label it with `request`, and we'll see if we can organise someone to give that talk :)
 
 What can you talk about?
 ------------------------
@@ -28,21 +46,4 @@ Secondly, you can talk about anything Rust related! Aside from looking at what o
 * Testing, benchmarking, profiling, debugging, REPL, IDE, editor experiences/tips/tricks/tools
 * War stories solving bugs, compilation errors, or production experiences
 * Anything else Rust-related ;-)
-
-Requesting a talk
------------------
-
-Would you like to see a talk on a particular topic? Something you'd like to understand better, or an interesting area?
-
-Raise an issue with the details and label it with `request`, and we'll see if we can organise someone to give that talk :)
-
-
-Proposing a talk
-----------------
-
-Got an idea for a talk? Raise an issue with the details and label it with `proposal`, and we'll work with you from there.
-
-And yes, *speakers get t-shirts*! (S, M, L, XL sizes still available)
-
-Talks can be anywhere from 5 mins onwards, so don't feel like you need a lot of content in order to talk (if you have more than 30 mins, it'd be best to split your content into several talks).
 
