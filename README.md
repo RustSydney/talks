@@ -12,7 +12,7 @@ Proposing a talk
 
 Got an idea for a talk? Raise an issue with the details and label it with `proposal`, and we'll work with you from there.
 
-And yes, *speakers get t-shirts*! (S, M, L, XL sizes still available)
+And yes, *speakers get ~~t-shirts~~ pyjama shirts or classy cleaning rags*! (S & XL t-shirts still available)
 
 Talks can be anywhere from 5 mins onwards, so don't feel like you need a lot of content in order to talk (if you have more than 30 mins, it'd be best to split your content into several talks). Huon and Caspar are also happy to review your talk if you'd like that.
 
